@@ -1,4 +1,4 @@
-document.getElementById('currency-form').addEventListener('submit',function(event){
+document.getElementById('currency-form').addEventListener('submit', function(event){
     event.preventDefault();
 
     //obter valores de entrada
